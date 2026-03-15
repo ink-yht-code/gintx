@@ -1,4 +1,4 @@
-module github.com/ink-yht-code/gint/gintx
+module github.com/ink-yht-code/gintx
 
 go 1.25.0
 

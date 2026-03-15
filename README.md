@@ -508,12 +508,12 @@ import (
     "syscall"
     "time"
 
-    "github.com/ink-yht-code/gint/gint"
-    "github.com/ink-yht-code/gint/gint/gctx"
-    "github.com/ink-yht-code/gint/gintx/db"
-    "github.com/ink-yht-code/gint/gintx/httpx"
-    "github.com/ink-yht-code/gint/gintx/log"
-    "github.com/ink-yht-code/gint/gintx/tx"
+    "github.com/ink-yht-code/gint"
+    "github.com/ink-yht-code/gint/gctx"
+    "github.com/ink-yht-code/gintx/db"
+    "github.com/ink-yht-code/gintx/httpx"
+    "github.com/ink-yht-code/gintx/log"
+    "github.com/ink-yht-code/gintx/tx"
 )
 
 func main() {
